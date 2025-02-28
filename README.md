@@ -4,10 +4,12 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yossi-xD&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Yossi-xD)
 
-  IHave Learned : 
+  ![image](https://github.com/user-attachments/assets/f58f5b2d-ccac-42b7-9435-a6d1f1df313a)
+## IHave Learned : 
+    Introduction to Intelligence: Intelligence Thinking
 
 ## 🌱 Currently Learning
-...![image](https://github.com/user-attachments/assets/f58f5b2d-ccac-42b7-9435-a6d1f1df313a)
+...
 
 
 ## 
