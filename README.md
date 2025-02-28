@@ -1,13 +1,8 @@
 ### HII!
-Welcome to my profile. I'm Saleem Yousef, a software engineering student passionate about building innovative projects!
+Welcome to my profile. I'm Yousef Yousef, a software engineering student passionate about building innovative projects!
 
-## Some of my projects
-- [![Project 1](https://img.shields.io/badge/GitHub-LeafyLodge-blue?logo=github)](https://github.com/Arikatakur/LeafyLodge)
-- [![Project 2](https://img.shields.io/badge/GitHub-Network%20Transmission%20Simulator-green?logo=github)](https://github.com/Arikatakur/Network-Transmission-Simulator)
-- [![Project 3](https://img.shields.io/badge/GitHub-Wifi%20Password%20Tester-red?logo=github)](https://github.com/Arikatakur/WiFi-Password-Tester)
-- [![Project 4](https://img.shields.io/badge/GitHub-CRC%20Remainder%20Calculator-purple?logo=github)](https://github.com/Arikatakur/CRC8-Remainder-Calculator)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatakur&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Arikatakur)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yossi-xD&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Yossi-xD)
 
 ## Deployment Status 🌐
 <div align="center">
