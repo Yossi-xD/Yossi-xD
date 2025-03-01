@@ -34,7 +34,8 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Software systems characterization   My Project Mockup :  </td>
       <td align="center"> 
   <a href="[https://discordapp.com/users/350985186231713793](https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1 )">
-      <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
+      <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"> </a>
+      </td>
   - Web and Cloud Engineering
   - Object-oriented analysis and training
 
