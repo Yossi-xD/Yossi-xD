@@ -31,8 +31,8 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Introduction to algorithms
   - Introduction to Artificial Intelligence
   - Computer architecture
-  - Software systems characterization   My Project Mockup : https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1 
- <a href="[https://discordapp.com/users/350985186231713793](https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1 )">
+  - Software systems characterization   My Project Mockup :  </td>
+      <td align="center"> <a href="[https://discordapp.com/users/350985186231713793](https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1 )">
   - Web and Cloud Engineering
   - Object-oriented analysis and training
 
