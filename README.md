@@ -9,31 +9,31 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
 ## IHave Learned : 
   - Introduction to Intelligence: Intelligence Thinking
   - Physics 1 for Software and Electricity
-  - Discrete Mathematics and Combinatorics
-  - Mathematical logic
   - Electrical Engineering for Software Engineers
   - Mathematics 1 
   - Mathematics 2 for software
+  - Discrete Mathematics and Combinatorics
+  - Mathematical logic
   - Introduction to Probability and Statistics
   - Linear algebra
   - Applied Numerical Analysis
-  - Programming 1 - Introduction to Computer Science
-  - Programming 2 - Introduction to Systems Programming
+  - Programming 1 - Introduction to Computer Science ( C )
+  - Programming 2 - Introduction to Systems Programming ( C / C++ ) 
   - Assembly
   - Numerical systems
 
 ## 🌱 Currently Learning
-  - Communication networks
   - Logic Design - EMI
-  - Programming 3 - Object-Oriented Programming
-  - Data structures
-  - Databases
-  - Introduction to algorithms
-  - Introduction to Artificial Intelligence
   - Computer architecture
   - Software systems characterization   My Project Mockup : https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1
+  - Programming 3 - Object-Oriented Programming ( C++ )
+  - Databases
+  - Data structures
+  - Introduction to algorithms
   - Web and Cloud Engineering
+  - Communication networks
   - Object-oriented analysis and training
+  - Introduction to Artificial Intelligence
 
 
 ## 
