@@ -18,7 +18,8 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Linear algebra
   - Applied Numerical Analysis
   - Programming 1 - Introduction to Computer Science ( C )
-  - Programming 2 - Introduction to Systems Programming ( C / C++ ) 
+  - Programming 2 - Introduction to Systems Programming ( C / C++ )
+  - Programming 3 - Object-Oriented Programming ( C++ / OOP )
   - Assembly
   - Numerical systems
 
@@ -26,7 +27,6 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Logic Design - EMI
   - Computer architecture
   - Software systems characterization   My Project Mockup : https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1
-  - Programming 3 - Object-Oriented Programming ( C++ )
   - Databases
   - Data structures
   - Introduction to algorithms
