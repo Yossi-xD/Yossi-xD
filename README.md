@@ -28,6 +28,7 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Data Structures
 
 ## 🌱 Currently Learning
+  - INTERNATIONAL INTERNSHIP - EMI
   - Databases
   - Introduction to algorithms
   - Web and Cloud Engineering
