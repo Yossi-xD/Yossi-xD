@@ -22,12 +22,12 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Programming 3 - Object-Oriented Programming ( C++ / OOP )
   - Assembly
   - Numerical systems
-
-## 🌱 Currently Learning
   - Logic Design - EMI
   - Computer architecture
   - Software systems characterization   My Project Mockup : https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1
   - Data Structures
+
+## 🌱 Currently Learning
   - Databases
   - Introduction to algorithms
   - Web and Cloud Engineering
