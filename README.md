@@ -8,6 +8,7 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
 
 ## IHave Learned : 
   - Introduction to Intelligence: Intelligence Thinking
+  - Interdisciplinary Laboratory-Pharmacy 2 - Ichilov Medical Center
   - Physics 1 for Software and Electricity
   - Electrical Engineering for Software Engineers
   - Mathematics 1 
