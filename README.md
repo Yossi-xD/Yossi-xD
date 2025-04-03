@@ -34,7 +34,7 @@ Welcome to my profile. I'm Yousef Yousef, a software engineering student passion
   - Introduction to algorithms
   - Web and Cloud Engineering
   - Communication networks
-  - Object-oriented programming
+  - Object-oriented Analysis and Design
   - Introduction to Artificial Intelligence
 
 
