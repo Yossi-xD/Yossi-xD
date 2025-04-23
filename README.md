@@ -1,79 +1,89 @@
-### HII!
-Welcome to my profile. I'm Yousef Yousef, a software engineering student passionate about building innovative projects!
+<h1 align="center">Hi there! 👋 I'm Yousef Yousef</h1>
 
+<p align="center">
+  🎓 Software Engineering Student | 💡 Passionate about Innovation and Building Cool Projects
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yossi-xD&cache_seconds=1800&layout=compact&theme=dark)](https://github.com/Yossi-xD)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yossi-xD&cache_seconds=1800&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
 
-  ![image](https://github.com/user-attachments/assets/152a661e-d548-4dcb-8a11-fa0bd27dac61)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/152a661e-d548-4dcb-8a11-fa0bd27dac61" alt="Project Banner"/>
+</p>
 
-## IHave Learned : 
-  - Introduction to Intelligence: Intelligence Thinking
-  - Interdisciplinary Laboratory-Pharmacy 2 - Ichilov Medical Center
+---
+
+## 📚 Courses I Have Completed
+
+- **Computer Science & Engineering**
+  - Programming 1: Introduction to Computer Science (C)
+  - Programming 2: Systems Programming (C / C++)
+  - Programming 3: Object-Oriented Programming (C++ / OOP)
+  - Assembly Language
+  - Numerical Systems
+  - Logic Design (EMI)
+  - Computer Architecture
+  - Data Structures
+  - Software Systems Characterization
+
+- **Mathematics & Logic**
+  - Mathematics 1 & 2
+  - Discrete Mathematics & Combinatorics
+  - Mathematical Logic
+  - Linear Algebra
+  - Applied Numerical Analysis
+  - Probability & Statistics
+
+- **Engineering & Science**
   - Physics 1 for Software and Electricity
   - Electrical Engineering for Software Engineers
-  - Mathematics 1 
-  - Mathematics 2 for software
-  - Discrete Mathematics and Combinatorics
-  - Mathematical logic
-  - Introduction to Probability and Statistics
-  - Linear algebra
-  - Applied Numerical Analysis
-  - Programming 1 - Introduction to Computer Science ( C )
-  - Programming 2 - Introduction to Systems Programming ( C / C++ )
-  - Programming 3 - Object-Oriented Programming ( C++ / OOP )
-  - Assembly
-  - Numerical systems
-  - Logic Design - EMI
-  - Computer architecture
-  - Software systems characterization   My Project Mockup : https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1
-  - Data Structures
+  - Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
+
+- **Special Topics**
+  - Introduction to Intelligence & Intelligent Thinking
+
+---
 
 ## 🌱 Currently Learning
-  - INTERNATIONAL INTERNSHIP - EMI
-  - Databases
-  - Introduction to algorithms
-  - Web and Cloud Engineering
-  - Communication networks
-  - Object-oriented Analysis and Design
-  - Introduction to Artificial Intelligence
 
+- 🌍 International Internship – EMI
+- 🧠 Introduction to Artificial Intelligence
+- 🗃️ Databases
+- 🌐 Web and Cloud Engineering
+- 🔌 Communication Networks
+- 📊 Introduction to Algorithms
+- 🧩 Object-Oriented Analysis and Design
 
-## 
+---
 
-<div align="center">
+## 🚀 Projects
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:yousef.a.you2@gmail.com">
-          <img src="https://img.shields.io/badge/Outlook-Email_Me-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/yossi-xd/">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://discordapp.com/users/350985186231713793">
-          <img src="https://img.shields.io/badge/Discord-meryio-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/yousef.a.you/">
-          <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram&logoColor=red&labelColor=gray" alt="Instagram Badge">
-        </a>
-      </td>
-    </tr>
-  </table>
+- 🎨 **Community Courier Connection (Mockup)**  
+  A platform to connect travelers delivering goods with requesters.  
+  👉 [View on Figma](https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1)
 
-</div>
+---
 
+## 📬 Connect With Me
 
+<p align="center">
+  <a href="mailto:yousef.a.you2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yousef.a.you2@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yossi-xd/">
+    <img src="https://img.shields.io/badge/LinkedIn-yossi--xd-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/350985186231713793">
+    <img src="https://img.shields.io/badge/Discord-meryio-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yousef.a.you/">
+    <img src="https://img.shields.io/badge/Instagram-@yousef.a.you-red?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
+---
 
- <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Arikatakur&icon=0&color=12)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Yossi-xD&icon=0&color=12" alt="Visitor Count"/>
+</p>
