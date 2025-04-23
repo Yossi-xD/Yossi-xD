@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-yossi--xd-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/350985186231713793">
-    <img src="https://img.shields.io/badge/Discord-meryio-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Yossi-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yousef.a.you/">
     <img src="https://img.shields.io/badge/Instagram-@yousef.a.you-red?style=for-the-badge&logo=instagram&logoColor=white" />
