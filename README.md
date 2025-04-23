@@ -84,6 +84,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Yossi-xD&icon=0&color=12" alt="Visitor Count"/>
-</p>
+
