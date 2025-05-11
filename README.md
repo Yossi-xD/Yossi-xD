@@ -38,10 +38,10 @@
 - **Engineering & Science**
   - Physics 1 for Software and Electricity
   - Electrical Engineering for Software Engineers
-  - Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
-
+  
 - **Special Topics**
   - Introduction to Intelligence & Intelligent Thinking
+  - Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
 
 ---
 
