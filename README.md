@@ -40,8 +40,8 @@
   - Electrical Engineering for Software Engineers
   
 - **Special Topics**
-  - Introduction to Intelligence & Intelligent Thinking
-  - Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
+  - 🌐 Introduction to Intelligence & Intelligent Thinking
+  - 📊 Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
   - 🌍 International Internship – EMI ([Certification 📄](https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4))
 
 
@@ -49,7 +49,6 @@
 
 ## 🌱 Currently Learning
 
-- 🌍 International Internship – EMI
 - 🧠 Introduction to Artificial Intelligence
 - 🗃️ Databases
 - 🌐 Web and Cloud Engineering
@@ -64,6 +63,11 @@
 - 🎨 **Community Courier Connection (Mockup)**  
   A platform to connect travelers delivering goods with requesters.  
   👉 [View on Figma](https://www.figma.com/design/rHdBzd5hvapQFjvL118DGE/C%5E3?node-id=0-1&t=F8gzZQjLXdyYhtS3-1)
+
+- 🌍 **TOVALI (Mockup)**  
+ A platform to connect job seekers with job requesters .  
+ 👉 [View on Figma](https://www.figma.com/design/VOZW5MPi2ESWyVgR1lAaLy/TOVALI?node-id=0-1&t=jOdHQu6o0HLu20qJ-1)
+
 
 ---
 
