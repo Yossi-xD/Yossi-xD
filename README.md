@@ -63,7 +63,7 @@
 
 - 🎨 **Community Courier Connection (Mockup)**  
   A platform to connect travelers delivering goods with requesters.  
-  👉 [View on Figma](https://www.figma.com/proto/F4C9H7fSjpDAdl4eSbQ87y/Community-Courier-Connection-(Community)?node-id=1-769&starting-point-node-id=1%3A769&t=83f8IBhlET8i49pB-1)
+  👉 [View on Figma](https://www.figma.com/design/rHdBzd5hvapQFjvL118DGE/C%5E3?node-id=0-1&t=F8gzZQjLXdyYhtS3-1)
 
 ---
 
