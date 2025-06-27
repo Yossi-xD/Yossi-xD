@@ -42,6 +42,11 @@
 - **Special Topics**
   - Introduction to Intelligence & Intelligent Thinking
   - Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
+  - 🌍 International Internship – EMI  
+  <img src="https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4" alt="EMI Certificate" width="500"/>
+  - 🌍 International Internship – EMI ([View Certificate 📄](https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4))
+
+
 
 ---
 
