@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Yousef Yousef</h1>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://il.linkedin.com/in/yossi-xd)
 
 <p align="center">
   🎓 Software Engineering Student | 💡 Passionate about Innovation and Building Cool Projects
