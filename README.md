@@ -24,8 +24,8 @@
   - Numerical Systems
   - Logic Design (EMI)
   - Computer Architecture
-  - Data Structures
   - Software Systems Characterization
+  - Introduction to Artificial Intelligence
 
 - **Mathematics & Logic**
   - Mathematics 1 & 2
@@ -34,6 +34,8 @@
   - Linear Algebra
   - Applied Numerical Analysis
   - Probability & Statistics
+  - Data Structures
+  - Introduction to Algorithms
 
 - **Engineering & Science**
   - Physics 1 for Software and Electricity
@@ -49,12 +51,11 @@
 
 ## 🌱 Currently Learning
 
-- 🧠 Introduction to Artificial Intelligence
 - 🗃️ Databases
 - 🌐 Web and Cloud Engineering
 - 🔌 Communication Networks
-- 📊 Introduction to Algorithms
 - 🧩 Object-Oriented Analysis and Design
+- 🗃️ Systems programming
 
 ---
 
