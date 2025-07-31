@@ -26,6 +26,7 @@
   - Computer Architecture
   - Software Systems Characterization
   - Introduction to Artificial Intelligence
+  - Databases
 
 - **Mathematics & Logic**
   - Mathematics 1 & 2
@@ -51,7 +52,7 @@
 
 ## 🌱 Currently Learning
 
-- 🗃️ Databases
+- 🗃️ 
 - 🌐 Web and Cloud Engineering
 - 🔌 Communication Networks
 - 🧩 Object-Oriented Analysis and Design
