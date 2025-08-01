@@ -64,7 +64,7 @@
 
 - 🎨 **Community Courier Connection (Mockup)**  
   A platform to connect travelers delivering goods with requesters.  
-  👉 [View on Figma](https://www.figma.com/design/rHdBzd5hvapQFjvL118DGE/C%5E3?node-id=0-1&t=F8gzZQjLXdyYhtS3-1)
+  👉 [View on Figma](https://www.figma.com/design/FPJ9gWAZzRCVNACFYDhLJ3/Community-Courier-Connection--Community-?node-id=0-1&t=sFpOAyGBBmroGO2l-1)
 
 - 🌍 **TOVALI (Mockup)**  
  A platform to connect job seekers with job requesters .  
