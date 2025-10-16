@@ -14,50 +14,59 @@
 
 ---
 
-## 📚 Courses I Have Completed
+## 📚 Education & Coursework  
 
-- **Computer Science & Engineering**
-  - Programming 1: Introduction to Computer Science (C)
-  - Programming 2: Systems Programming (C / C++)
-  - Programming 3: Object-Oriented Programming (C++ / OOP)
-  - Assembly Language
-  - Numerical Systems
-  - Logic Design (EMI)
-  - Computer Architecture
-  - Software Systems Characterization
-  - Introduction to Artificial Intelligence
-  - Databases
+**🎓 B.Sc. in Software Engineering**  
+*Shenkar College of Engineering and Design*  
 
-- **Mathematics & Logic**
-  - Mathematics 1 & 2
-  - Discrete Mathematics & Combinatorics
-  - Mathematical Logic
-  - Linear Algebra
-  - Applied Numerical Analysis
-  - Probability & Statistics
-  - Data Structures
-  - Introduction to Algorithms
+### 💻 Core Software Engineering  
+- Programming 1: Introduction to Computer Science (C)  
+- Programming 2: Systems Programming (C / C++)  
+- Programming 3: Object-Oriented Programming (C++)  
+- Assembly Language  
+- Numerical Systems  
+- Logic Design (EMI)  
+- Computer Architecture  
+- Software Systems Characterization  
+- Introduction to Artificial Intelligence  
+- Databases  
+- Web and Cloud Engineering  
+- Communication Networks  
+- Object-Oriented Analysis and Design  
+- Systems Programming  
 
-- **Engineering & Science**
-  - Physics 1 for Software and Electricity
-  - Electrical Engineering for Software Engineers
-  
-- **Special Topics**
-  - 🌐 Introduction to Intelligence & Intelligent Thinking
-  - 📊 Interdisciplinary Laboratory – Pharmacy 2 (Ichilov Medical Center)
-  - 🌍 International Internship – EMI ([Certification 📄](https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4))
+### 📐 Mathematics & Algorithms  
+- Mathematics 1 & 2  
+- Discrete Mathematics & Combinatorics  
+- Mathematical Logic  
+- Linear Algebra  
+- Applied Numerical Analysis  
+- Probability & Statistics  
+- Data Structures  
+- Algorithms  
+
+### ⚙️ Engineering & Science  
+- Physics 1 for Software and Electricity  
+- Electrical Engineering for Software Engineers  
+
+### 🌍 Special Topics & Experience  
+- Introduction to Intelligence & Intelligent Thinking  
+- Interdisciplinary Laboratory – Pharmacy 2 *(Ichilov Medical Center)*  
+- International Internship – EMI [📄 Certification](https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4)
 
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🗃️ 
-- 🌐 Web and Cloud Engineering
-- 🔌 Communication Networks
-- 🧩 Object-Oriented Analysis and Design
-- 🗃️ Systems programming
-
+- 🗃️ Quality Engineering in Software Projects
+- 🌐 Embedded computer systems
+- 🔌 Scientific programming in Python
+- 🧩 Project Management
+- 🗃️ Methods in software engineering
+- ⚙️ Secure development
+- 💻 Cryptography
+  
 ---
 
 ## 🚀 Projects
