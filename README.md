@@ -22,7 +22,8 @@
 ### 💻 Core Software Engineering  
 - Programming 1: Introduction to Computer Science (C)  
 - Programming 2: Systems Programming (C / C++)  
-- Programming 3: Object-Oriented Programming (C++)  
+- Programming 3: Object-Oriented Programming (C++)
+- Scientific programming in Python
 - Assembly Language  
 - Numerical Systems  
 - Logic Design (EMI)  
@@ -33,7 +34,14 @@
 - Web and Cloud Engineering  
 - Communication Networks  
 - Object-Oriented Analysis and Design  
-- Systems Programming  
+- Systems Programming
+- Project Management
+- Methods in software engineering
+
+
+### 🛡️ Cyber Security 
+- Secure development
+- Introduction to Intelligence & Intelligent Thinking
 
 ### 📐 Mathematics & Algorithms  
 - Mathematics 1 & 2  
@@ -50,9 +58,9 @@
 - Electrical Engineering for Software Engineers  
 
 ### 🌍 Special Topics & Experience  
-- Introduction to Intelligence & Intelligent Thinking  
 - Interdisciplinary Laboratory – Pharmacy 2 *(Ichilov Medical Center)*  
 - International Internship – EMI [📄 Certification](https://github.com/user-attachments/assets/3a5fe852-e262-42a9-ac44-04fe9cecbad4)
+
 
 
 ---
@@ -61,10 +69,10 @@
 
 - 🗃️ Quality Engineering in Software Projects
 - 🌐 Embedded computer systems
-- 🔌 Scientific programming in Python
-- 🧩 Project Management
-- 🗃️ Methods in software engineering
-- ⚙️ Secure development
+- 🔌 
+- 🧩 
+- 🗃️ 
+- ⚙️ 
 - 💻 Cryptography
   
 ---
