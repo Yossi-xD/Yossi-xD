@@ -37,6 +37,7 @@
 - Systems Programming
 - Project Management
 - Methods in software engineering
+- Quality Engineering in Software Projects
 
 
 ### 🛡️ Cyber Security 
@@ -67,13 +68,16 @@
 
 ## 🌱 Currently Learning
 
-- 🗃️ Quality Engineering in Software Projects
 - 🌐 Embedded computer systems
-- 🔌 
-- 🧩 
-- 🗃️ 
-- ⚙️ 
 - 💻 Cryptography
+
+- 🗃️ Final Project Seminar 1
+- 🌐 Network Attacks and Consciousness
+- 🔌 Operating Systems
+- 🧩 Competitive Business Intelligence Processes and Applications
+- 🗃️ Automata and Compilation
+- ⚙️ Security Engineering
+- 💻 
   
 ---
 
