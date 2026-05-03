@@ -38,10 +38,12 @@
 - Project Management
 - Methods in software engineering
 - Quality Engineering in Software Projects
+- Embedded computer systems
 
 
 ### 🛡️ Cyber Security 
 - Secure development
+- Cryptography
 - Introduction to Intelligence & Intelligent Thinking
 
 ### 📐 Mathematics & Algorithms  
@@ -67,9 +69,6 @@
 ---
 
 ## 🌱 Currently Learning
-
-- 🌐 Embedded computer systems
-- 💻 Cryptography
 
 - 🗃️ Final Project Seminar 1
 - 🌐 Network Attacks and Consciousness
