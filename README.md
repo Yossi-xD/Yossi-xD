@@ -76,8 +76,8 @@
 - 🧩 Competitive Business Intelligence Processes and Applications
 - 🗃️ Automata and Compilation
 - ⚙️ Security Engineering
-- 💻 
-  
+- 💻 Big Data Engineering
+- 🌍 Neural networks 
 ---
 
 ## 🚀 Projects
