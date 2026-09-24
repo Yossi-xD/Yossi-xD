@@ -39,12 +39,17 @@
 - Methods in software engineering
 - Quality Engineering in Software Projects
 - Embedded computer systems
+- Operating Systems
+- Automata and Compilation
+- Big Data Engineering
 
 
 ### 🛡️ Cyber Security 
 - Secure development
 - Cryptography
 - Introduction to Intelligence & Intelligent Thinking
+- Network Attacks and Consciousness
+- Security Engineering
 
 ### 📐 Mathematics & Algorithms  
 - Mathematics 1 & 2  
@@ -54,11 +59,18 @@
 - Applied Numerical Analysis  
 - Probability & Statistics  
 - Data Structures  
-- Algorithms  
+- Algorithms
+
+### 🤖 Artificial Intelligence & Data Science
+- Neural Networks
+- Competitive Business Intelligence Processes and Applications
 
 ### ⚙️ Engineering & Science  
 - Physics 1 for Software and Electricity  
-- Electrical Engineering for Software Engineers  
+- Electrical Engineering for Software Engineers
+
+### 🎓 Project / Software Engineering
+- EMI – Final Project Seminar 1
 
 ### 🌍 Special Topics & Experience  
 - Interdisciplinary Laboratory – Pharmacy 2 *(Ichilov Medical Center)*  
@@ -70,15 +82,22 @@
 
 ## 🌱 Currently Learning
 
+### 🎓 B.Sc. in Software Engineering
 - 🗃️ Final Project Seminar 1
-- 🌐 Network Attacks and Consciousness
-- 🔌 Operating Systems
-- 🧩 Competitive Business Intelligence Processes and Applications
-- 🗃️ Automata and Compilation
-- ⚙️ Security Engineering
-- 💻 Big Data Engineering
-- 🌍 Neural networks 
----
+- ☁️ Cloud Computing
+- 🤖 Artificial Intelligence for Professional Development (Workshop)
+- 🧠 Applied Machine Learning
+- 📊 Computability and Introduction to Complexity
+- 🎓 EMI – Final Project Seminar 2
+- ⚙️ Parallel Computer Systems
+- 💻 Seminar in Software Engineering
+
+### 🎓 M.Sc.
+- 🔌 Advanced Embedded Computer Systems Engineering
+- 🔬 EMI – 1st M.Sc. Research Seminar
+- 🧠 Knowledge Discovery Methods
+- 📐 Methods in Algorithm Design
+
 
 ## 🚀 Projects
 
