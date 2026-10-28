@@ -91,7 +91,7 @@
 - 🤖
 - 🧠 
 
-### 🎓 M.Sc.
+### 🎓 M.Sc. in Software Engineering
 - 🔌 Advanced Embedded Computer Systems Engineering
 - 🔬 EMI – 1st M.Sc. Research Seminar
 - 🧠 Knowledge Discovery Methods
