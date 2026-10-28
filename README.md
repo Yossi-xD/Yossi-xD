@@ -83,14 +83,13 @@
 ## 🌱 Currently Learning
 
 ### 🎓 B.Sc. in Software Engineering
-- 🗃️ Final Project Seminar 1
 - ☁️ Cloud Computing
-- 🤖 Artificial Intelligence for Professional Development (Workshop)
-- 🧠 Applied Machine Learning
 - 📊 Computability and Introduction to Complexity
 - 🎓 EMI – Final Project Seminar 2
 - ⚙️ Parallel Computer Systems
 - 💻 Seminar in Software Engineering
+- 🤖
+- 🧠 
 
 ### 🎓 M.Sc.
 - 🔌 Advanced Embedded Computer Systems Engineering
